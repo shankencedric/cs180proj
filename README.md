@@ -4,10 +4,10 @@ This serves as the final project for CS 180 under Ma'am Lyn, AY 2023-2024, Semes
 
 This README file will explain the code structure and how it is run. Importantly, the following: (1) attribution to any data sources used or code bases reused, (2) links to any models that you yourself trained and stored on the cloud (i.e.,Google Drive), and (3) links to datasets you used and/or cleansed versions thereof (again, stored on the cloud).
 
-# Models and References
+# Models and Datasets
 It is required to have both trained models present in the `models` subfolder of this repository or directory. This is the case by default--although it is possible that these models are not the most up to date.
 
-For reference, they are the following:
+For reference, they are the following (Google Drive links):
 - [`tunedModel.pkl`](https://drive.google.com/file/d/1-7supJLQgEljedoTXssnzaHOlvuvJGso/view?usp=sharing)
 - [`tunedModelNH.pkl`](https://drive.google.com/file/d/1-4ILWoj0-gJqZQYUzG1AqwR0M034leTj/view?usp=sharing)
 
