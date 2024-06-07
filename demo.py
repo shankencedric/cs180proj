@@ -139,12 +139,12 @@ def getInput():
 def predictHuman(inp):
   # Predict with human predictions
   inp = pd.DataFrame(inp, index=[0])
-  return round(tunedModel.predict(inp))
+  return round(tunedModel.predict(inp)[0])
 
 def predictNoHuman(inp):
   # Predict with no human predictions
   inp = pd.DataFrame(inp, index=[0])
-  return round(tunedModelNH.predict(inp))
+  return round(tunedModelNH.predict(inp)[0])
 
 if __name__ == "__main__":
   

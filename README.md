@@ -12,7 +12,9 @@ For reference, they are the following (Google Drive links):
 - [`tunedModelNH.pkl`](https://drive.google.com/file/d/1-4ILWoj0-gJqZQYUzG1AqwR0M034leTj/view?usp=sharing)
 
 For reference as well, the dataset that was used to train the models is from [Performance vs Predicted Performance](https://www.kaggle.com/datasets/daphnelenders/performance-vs-predicted-performance/), uploaded by Kaggle user CALATHEA21, which directly sampled from
-the dataset [Student Alcohol Consumption](https://www.kaggle.com/datasets/uciml/student-alcohol-consumption), uploaded by UCI Machine Learning in colaboration with Dimitry Batogov.
+the dataset [Student Alcohol Consumption](https://www.kaggle.com/datasets/uciml/student-alcohol-consumption), uploaded by UCI Machine Learning in colaboration with Dimitry Batogov. 
+
+Note that the former dataset is also optionally included in this reporsitory inside the `dataset-source` folder.
 
 # Prerequisites
 To be able to run the demo code `demo.py`, make sure you have Python installed with the recommended version `Python 3.12.3` which is the latest as of June 7, 2024. 
