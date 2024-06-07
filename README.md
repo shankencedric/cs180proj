@@ -1,6 +1,8 @@
 # MantisMinds™️ -- CS 180 Final Project
 This serves as the final project for CS 180 under Ma'am Lyn, AY 2023-2024, Semester 2. 
 
+[Repo link](https://github.com/shankencedric/cs180proj).
+
 
 This README file will explain the code structure and how it is run. Importantly, the following: (1) attribution to any data sources used or code bases reused, (2) links to any models that you yourself trained and stored on the cloud (i.e.,Google Drive), and (3) links to datasets you used and/or cleansed versions thereof (again, stored on the cloud).
 
